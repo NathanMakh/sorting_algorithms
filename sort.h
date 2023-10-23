@@ -1,5 +1,5 @@
 #ifndef SORT_H
-#def SORT_H
+#define SORT_H
 
 #include <stdio.h>
 #include <math.h>
